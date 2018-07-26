@@ -1,0 +1,30 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.exe.config
+C:\Users\Administrator\Desktop\格网离散线生成程序\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.exe
+C:\Users\Administrator\Desktop\格网离散线生成程序\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.exe
+C:\Users\Administrator\Desktop\格网离散线生成程序\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.exe.config
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.exe
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.exe
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.exe.config
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.exe
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.exe
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\IJGI\上传程序\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.exe.config
+C:\Users\Administrator\Desktop\IJGI\上传程序\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.exe
+C:\Users\Administrator\Desktop\IJGI\上传程序\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.pdb
+C:\Users\Administrator\Desktop\IJGI\上传程序\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.exe
+C:\Users\Administrator\Desktop\IJGI\上传程序\Trianglecoordinate\Trianglecoordinate\bin\Debug\Trianglecoordinate.pdb
+C:\Users\Administrator\Desktop\IJGI\上传程序\Trianglecoordinate\Trianglecoordinate\obj\Debug\Trianglecoordinate.csprojResolveAssemblyReference.cache

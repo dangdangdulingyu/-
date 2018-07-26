@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2012\Projects\zuobiaozhuanhuan\zuobiaozhuanhuan\bin\Debug\zuobiaozhuanhuan.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\zuobiaozhuanhuan\zuobiaozhuanhuan\bin\Debug\zuobiaozhuanhuan.exe
+c:\users\administrator\documents\visual studio 2012\Projects\zuobiaozhuanhuan\zuobiaozhuanhuan\bin\Debug\zuobiaozhuanhuan.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\zuobiaozhuanhuan\zuobiaozhuanhuan\obj\Debug\zuobiaozhuanhuan.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\zuobiaozhuanhuan\zuobiaozhuanhuan\obj\Debug\zuobiaozhuanhuan.exe
+c:\users\administrator\documents\visual studio 2012\Projects\zuobiaozhuanhuan\zuobiaozhuanhuan\obj\Debug\zuobiaozhuanhuan.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\zuobiaozhuanhuan\zuobiaozhuanhuan\bin\Debug\zuobiaozhuanhuan.exe.config
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\zuobiaozhuanhuan\zuobiaozhuanhuan\obj\Debug\zuobiaozhuanhuan.exe
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\zuobiaozhuanhuan\zuobiaozhuanhuan\obj\Debug\zuobiaozhuanhuan.pdb
+C:\Users\Administrator\Desktop\IJGI\上传程序\zuobiaozhuanhuan\zuobiaozhuanhuan\bin\Debug\zuobiaozhuanhuan.exe.config
+C:\Users\Administrator\Desktop\IJGI\上传程序\zuobiaozhuanhuan\zuobiaozhuanhuan\obj\Debug\zuobiaozhuanhuan.exe
+C:\Users\Administrator\Desktop\IJGI\上传程序\zuobiaozhuanhuan\zuobiaozhuanhuan\obj\Debug\zuobiaozhuanhuan.pdb

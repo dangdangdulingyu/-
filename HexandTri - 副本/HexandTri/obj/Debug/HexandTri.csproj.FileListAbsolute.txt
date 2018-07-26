@@ -1,0 +1,29 @@
+c:\users\administrator\documents\visual studio 2012\Projects\HexandTri\HexandTri\bin\Debug\HexandTri.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\HexandTri\HexandTri\bin\Debug\HexandTri.exe
+c:\users\administrator\documents\visual studio 2012\Projects\HexandTri\HexandTri\bin\Debug\HexandTri.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\HexandTri\HexandTri\obj\Debug\HexandTri.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\HexandTri\HexandTri\obj\Debug\HexandTri.exe
+c:\users\administrator\documents\visual studio 2012\Projects\HexandTri\HexandTri\obj\Debug\HexandTri.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\HexandTri\HexandTri\bin\Debug\HexandTri.exe.config
+C:\Users\Administrator\Desktop\格网离散线生成程序\HexandTri\HexandTri\obj\Debug\HexandTri.exe
+C:\Users\Administrator\Desktop\格网离散线生成程序\HexandTri\HexandTri\obj\Debug\HexandTri.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\HexandTri\HexandTri\bin\Debug\HexandTri.exe
+C:\Users\Administrator\Desktop\格网离散线生成程序\HexandTri\HexandTri\bin\Debug\HexandTri.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\HexandTri\HexandTri\obj\Debug\HexandTri.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HexandTri\HexandTri\bin\Debug\HexandTri.exe.config
+C:\Users\Administrator\Desktop\HexandTri\HexandTri\obj\Debug\HexandTri.exe
+C:\Users\Administrator\Desktop\HexandTri\HexandTri\obj\Debug\HexandTri.pdb
+C:\Users\Administrator\Desktop\HexandTri\HexandTri\bin\Debug\HexandTri.exe
+C:\Users\Administrator\Desktop\HexandTri\HexandTri\bin\Debug\HexandTri.pdb
+C:\Users\Administrator\Desktop\HexandTri\HexandTri\obj\Debug\HexandTri.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\HexandTri - 副本\HexandTri\bin\Debug\HexandTri.exe.config
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\HexandTri - 副本\HexandTri\obj\Debug\HexandTri.exe
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\HexandTri - 副本\HexandTri\obj\Debug\HexandTri.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\HexandTri - 副本\HexandTri\bin\Debug\HexandTri.exe
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\HexandTri - 副本\HexandTri\bin\Debug\HexandTri.pdb
+C:\Users\Administrator\Desktop\格网离散线生成程序\三角形格网（测绘学报投稿）\HexandTri - 副本\HexandTri\obj\Debug\HexandTri.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\IJGI\上传程序\HexandTri - 副本\HexandTri\bin\Debug\HexandTri.exe.config
+C:\Users\Administrator\Desktop\IJGI\上传程序\HexandTri - 副本\HexandTri\obj\Debug\HexandTri.exe
+C:\Users\Administrator\Desktop\IJGI\上传程序\HexandTri - 副本\HexandTri\obj\Debug\HexandTri.pdb
+C:\Users\Administrator\Desktop\IJGI\上传程序\HexandTri - 副本\HexandTri\bin\Debug\HexandTri.exe
+C:\Users\Administrator\Desktop\IJGI\上传程序\HexandTri - 副本\HexandTri\bin\Debug\HexandTri.pdb
